@@ -1,4 +1,8 @@
-# Employee Data Analysis for HR Departments
+# Employee Data Analysis for HR Departments 📊
+
+## Preview
+
+![power bi hr project](https://github.com/user-attachments/assets/f2f4d820-0eed-469f-a213-5be5558e3d63)
 
 ## Overview
 
